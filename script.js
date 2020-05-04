@@ -140,5 +140,3 @@ readBtn.addEventListener('click', () => {
   speakText();
 });
 
-getVoices();
-© 2020 GitHub, Inc.
